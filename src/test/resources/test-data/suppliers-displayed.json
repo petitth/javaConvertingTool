@@ -1,0 +1,38 @@
+{"suppliers": [
+     {
+          "country": "UK",
+          "contactTitle": "Purchasing Manager",
+          "address": "49 Gilbert St.",
+          "city": "London",
+          "phone": "(171) 555-2222",
+          "contactName": "Charlotte Cooper",
+          "companyName": "Exotic Liquids",
+          "postalCode": "EC1 4SD",
+          "_id": 1,
+          "region": null
+     },
+     {
+          "country": "USA",
+          "contactTitle": "Order Administrator",
+          "address": "P.O. Box 78934",
+          "city": "New Orleans",
+          "phone": "(100) 555-4822",
+          "contactName": "Shelley Burke",
+          "companyName": "New Orleans Cajun Delights",
+          "postalCode": "70117",
+          "_id": 2,
+          "region": "LA"
+     },
+     {
+          "country": "USA",
+          "contactTitle": "Sales Representative",
+          "address": "707 Oxford Rd.",
+          "city": "Ann Arbor",
+          "phone": "(313) 555-5735",
+          "contactName": "Regina Murphy",
+          "companyName": "Grandma Kelly's Homestead",
+          "postalCode": "48104",
+          "_id": 3,
+          "region": "MI"
+     }
+]}

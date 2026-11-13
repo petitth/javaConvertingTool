@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <suppliers>
+        <country>UK</country>
+        <contactTitle>Purchasing Manager</contactTitle>
+        <address>49 Gilbert St.</address>
+        <city>London</city>
+        <phone>(171) 555-2222</phone>
+        <contactName>Charlotte Cooper</contactName>
+        <companyName>Exotic Liquids</companyName>
+        <postalCode>EC1 4SD</postalCode>
+        <_id>1</_id>
+        <region>null</region>
+    </suppliers>
+    <suppliers>
+        <country>USA</country>
+        <contactTitle>Order Administrator</contactTitle>
+        <address>P.O. Box 78934</address>
+        <city>New Orleans</city>
+        <phone>(100) 555-4822</phone>
+        <contactName>Shelley Burke</contactName>
+        <companyName>New Orleans Cajun Delights</companyName>
+        <postalCode>70117</postalCode>
+        <_id>2</_id>
+        <region>LA</region>
+    </suppliers>
+    <suppliers>
+        <country>USA</country>
+        <contactTitle>Sales Representative</contactTitle>
+        <address>707 Oxford Rd.</address>
+        <city>Ann Arbor</city>
+        <phone>(313) 555-5735</phone>
+        <contactName>Regina Murphy</contactName>
+        <companyName>Grandma Kelly's Homestead</companyName>
+        <postalCode>48104</postalCode>
+        <_id>3</_id>
+        <region>MI</region>
+    </suppliers>
+</root>
